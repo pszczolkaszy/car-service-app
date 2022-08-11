@@ -21,6 +21,7 @@ class Car extends Model
     protected $hidden = [
         'created_at',
         'updated_at',
+        'client_id',
     ];
 
     public function client()

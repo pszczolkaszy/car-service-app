@@ -1,1 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Car Service App
+
+Application to manage Car Service work.
+
+Still under development! First beta version will have live preview link here.
+
+
+
+
+## Tech Stack
+
+ - Laravel 9 API
+ - Vue 3
+ - Tailwind CSS
+
